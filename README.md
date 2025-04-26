@@ -212,11 +212,7 @@ npm test
    - Check CORS settings
    - Ensure correct port configuration
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
+## Technologies
 
 - [React](https://reactjs.org/)
 - [Flask](https://flask.palletsprojects.com/)
